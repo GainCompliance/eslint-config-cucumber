@@ -3,7 +3,7 @@ language: node_js
 notifications:
   email: false
 import:
-  - source: GainComoliance/.travis-ci:authenticated-semantic-release.yml
+  - source: GainCompliance/.travis-ci:authenticated-semantic-release.yml
 before_script:
   - npm ls >/dev/null
 env:
