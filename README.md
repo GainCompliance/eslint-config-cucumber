@@ -1,3 +1,6 @@
+# DEPRECATED 
+## please use `@gaincompliance/eslint-config/cucumber` in the `GainCompliance/eslint-config` repo
+
 # eslint-config-cucumber
 
 [Shareable config](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
